@@ -41,6 +41,6 @@
 
 ###
 
-<p align="left">Email: lena.gaubert@proton.me/p>
+<p align="left">Email: lena.gaubert@proton.me</p>
 
 ###
